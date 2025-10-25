@@ -1,4 +1,4 @@
-/* ===== Global Styles ===== */
+
 * {
   margin: 0;
   padding: 0;
@@ -9,12 +9,12 @@
 body {
   line-height: 1.6;
   color: #333;
-  background-color: #f5f0ff; /* very light purple */
+  background-color: #f5f0ff; 
 }
 
-/* ===== Header ===== */
+
 header {
-  background-color: #6a0dad; /* deep purple */
+  background-color: #6a0dad; 
   color: white;
   text-align: center;
   padding: 50px 20px;
@@ -29,7 +29,7 @@ header p {
   font-size: 1.2em;
 }
 
-/* ===== Sections ===== */
+
 section {
   padding: 50px 20px;
   max-width: 900px;
@@ -38,11 +38,11 @@ section {
 
 section h2 {
   text-align: center;
-  color: #6a0dad; /* same purple as header */
+  color: #6a0dad; 
   margin-bottom: 20px;
 }
 
-/* ===== Skills ===== */
+
 #skills ul {
   list-style: none;
   display: flex;
@@ -51,32 +51,32 @@ section h2 {
 }
 
 #skills li {
-  background-color: #d8b9ff; /* light purple */
+  background-color: #d8b9ff; 
   padding: 10px 20px;
   border-radius: 5px;
   font-weight: bold;
-  color: #3b0a7b; /* dark purple text */
+  color: #3b0a7b; 
 }
 
-/* ===== Projects ===== */
+
 #projects div {
-  background-color: #fff0ff; /* very light purple card */
+  background-color: #fff0ff; 
   border: 1px solid #d1b3ff;
   padding: 20px;
   margin: 10px 0;
   border-radius: 5px;
 }
 
-/* ===== Contact ===== */
+
 #contact p {
   text-align: center;
   font-size: 1.2em;
-  color: #4b0082; /* dark purple text */
+  color: #4b0082; 
 }
 
-/* ===== Footer ===== */
+
 footer {
-  background-color: #3b0a7b; /* dark purple footer */
+  background-color: #3b0a7b; 
   color: white;
   text-align: center;
   padding: 20px;
